@@ -4,4 +4,4 @@ An augmented reality note taking app which puts back the "personal" in personal 
 
 Built as a part of Angel Hack Bangalore - 2015
 
-Winners of the HP Prize and the Hackcelerator. 
+Winners of the HP Prize and the Hackcelerator Access. 
